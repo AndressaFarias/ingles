@@ -36,6 +36,7 @@
 
 **E**
     enough          -   suficiente
+    escaped         -   escapou
     "even more"     -   "ainda mais"
     "even so"       -   "mesmo assim"
 
@@ -53,9 +54,11 @@
     hear            -   audição (ouvir um barulho)
     heared          -   ouviu (passado de _hear_)
     Heaven          -   céu (paraiso)
+    here            -   aqui
     hidden          -   escondido
     "hurried off"   -   "partiu às pressas"
     "hurry up"      -   apressar
+    hold            -   segurar
     how             -   como
 
 
@@ -63,11 +66,14 @@
     " if it were"   -   se fosse
 
 **J**
+    jumped          -   pulou
+    "jumped down"   -   pulou
     "just as"       -   exatamente como
 
 **K**
     kept            -   mantidas (p]assado de _keep_)
     kind            -   tipo
+    kneel | kneel down  -   ajoelhe-se
     knelt           -   ajoelhou-se
     knew            -   sabia
     knock           -   bater na porta
@@ -88,6 +94,7 @@
     nobody          -   ninguém
 
 **O**
+    onto            -   usado junto à verbos para dar a idéia de movimento de um lugar para outro.
 
 **P**
     pale            -   palido  | claro
@@ -147,6 +154,7 @@
     walk            -   caminhar
     walked          -   caminhou (passado de _walk_)
     walking         -   andando
+    "walking on it" -   "andando sobre"
     want            -   quer
     was             -   era | foi
     went            -   foi (passado de _go_)
@@ -187,12 +195,23 @@ Handed <algo> over      -   entregar <algo> para <alguém>
                         -   _ex:_ She handed <everything> over <to the soldier>
 
 
+He could not see == he couldn't see     -   ele não consegue ver 
+
+
+
 How are you doing?      -   Como você está?
 How is he/she doing?    -   Como ele/ela está?
 
 
 How could you ...?      -   Como você pôde ... ?
                         -   _ex_ how could you say that? - Como você pode dizer aquilo?
+
+
+If you'll hold my horse     -   Se você segurar meu cavalo
+
+
+
+I'm doing           -   eu estou fazendo
 
 
 I will give him     -   Eu vou dar a ele
@@ -202,6 +221,9 @@ In those day    -   Naquelas dias
 
 
 Keep the money in the safe  -   Mantenha o dinheiro no cofre
+
+
+Like I'm doing          -   Como estou fazendo
 
 
 My goodness             -   Equivale em PT a Meu Deus
@@ -240,6 +262,11 @@ Where did you ...   -   Onde você ...
 
 
 Which of them?      -   qual deles   
+
+
+Who do you think...  -   
+Who do you think you are?   -   Quem vocẽ pensa que é?
+Who do you think is going to win?   -   Quem você acha que vai ganhar? 
 
 
 # Regras
