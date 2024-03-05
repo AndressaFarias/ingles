@@ -1,4 +1,4 @@
-# Palavras
+ # Palavras
 
 **A**
 
@@ -51,11 +51,13 @@
 
 **H**
     hand            -   mão
+    her             -   dela
     hear            -   audição (ouvir um barulho)
     heared          -   ouviu (passado de _hear_)
     Heaven          -   céu (paraiso)
     here            -   aqui
     hidden          -   escondido
+    his             -   dele
     "hurried off"   -   "partiu às pressas"
     "hurry up"      -   apressar
     hold            -   segurar
@@ -83,6 +85,7 @@
     leave           -   deixar
     left            -   deixou (passado de _leave_)
     listen          -   escutar
+                    -   listen to (sempre) 
     lived           -   moravam
 
 **M**
@@ -133,10 +136,15 @@
     "such a"        -   para dar enfase (he is a **such** nice person - ele é uma pessoa tão/muito legal)
 
 **T**
-    talk            -   falar
-    "that is why"   -   "é por isso que"
-    then            -   então
-    there           -   lá
+    talk                -   falar
+    "that is why"       -   "é por isso que"
+    then                -   então
+    there               -   lá
+
+    "there was once"    -   Existia uma vez
+                            Havia uma vez
+                            Era uma vez
+    
     thing           -   coisa
     think           -   pensar
     thought         -   pensou (passado de _think_)
@@ -160,7 +168,16 @@
     went            -   foi (passado de _go_)
     west            -   oeste
     were            -   eram
+
+    "What a"        -   Quê
+                    -   expressão usada para ENFATIZAR algo
+                    -   Exemplo :  What a day      -   Quê dia !
+                                   What a pity     -   Que pena !
+
+    what a pair of fools - Que par de tolos 
+    
     where           -   onde
+    Which of them?  -   qual deles   
     who             -   quem    | que (qaundo se refere a algém)
     "with what"     -   "com o quê"
     wich            -   o que   | qual
@@ -200,8 +217,6 @@ He could not see == he couldn't see     -   ele não consegue ver
 
 
 How are you doing?      -   Como você está?
-How is he/she doing?    -   Como ele/ela está?
-
 
 How could you ...?      -   Como você pôde ... ?
                         -   _ex_ how could you say that? - Como você pode dizer aquilo?
@@ -234,9 +249,6 @@ Talking about       -   Falar sobre
 
 
 
-There was once      -   Existia uma vez
-                        Havia uma vez
-                        Era uma vez
 
 To try to find      -   para tentar encontrar
 
@@ -248,10 +260,6 @@ Save money          -   economiza dinheiro
 were able to make   -   eram capazes de fazer
 
 
-What a              -   expressão usada para ENFATIZAR algo
-                    -   Quê
-                    -   Exemplo :   What a day      -   Quê dia !
-                                    What a pity     -   Que pena !
 
 
 What are you doing      -   O quê / Por quê você está...?
@@ -261,7 +269,6 @@ Where did you ...   -   Onde você ...
                     -   De onde você ...
 
 
-Which of them?      -   qual deles   
 
 
 Who do you think...  -   
