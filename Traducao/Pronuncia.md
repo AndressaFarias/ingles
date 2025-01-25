@@ -1,5 +1,18 @@
+**A**
+    also : ólsou
+
+**C**
+    country : kãntry
+
+
 **L**
     listen : lissen
 
-**w**
-    was : wãz
+**T**
+    thought : thót
+
+
+**W**
+    was     : wãz
+    walk    : wóok
+    walked  : wóokt

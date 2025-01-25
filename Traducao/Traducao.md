@@ -25,10 +25,14 @@
 **C**
     
     "came back"     -   voltou
+    came across     -   deu de cara > keime
     can             -   pode    |   consegue
     chimney         -   chaminé
     clothes         -   roupas
-    "come for"      -   "indo pegar"
+    come across     -   dar de cara > kãm
+    come from       -   de onde vem ?
+
+    come for        -   "indo pegar"
     couple          -   casal
     covered         -   cobriu
 
@@ -46,7 +50,8 @@
     foolish         -   tolo (adjetivo)
 
 **G**
-    "get to know"   -   "conhecer alguém"
+    get to know     -  conhecer alguém
+    I got to know   -  Eu conheci ele 
     "give it"       -   "dar isso"
 
 **H**
@@ -65,7 +70,9 @@
 
 
 **I**
-    " if it were"   -   se fosse
+    if it were      -   se fosse
+    in those day    -   Naquelas dias
+
 
 **J**
     jumped          -   pulou
@@ -83,10 +90,11 @@
 **L**
     later           -   mais tarde  |   tempo depois
     leave           -   deixar
-    left            -   deixou (passado de _leave_)
+    left            -   partiu/deixou (passado de _leave_)
     listen          -   escutar
                     -   listen to (sempre) 
     lived           -   moravam
+    looking for ways - procurando por maneiras
 
 **M**
     money           -   dinheiro
@@ -103,7 +111,8 @@
     pale            -   palido  | claro
     pieces          -   pedaço  | moeda
     pity            -   piedade
-    "pointed up"    -   apontou (para cima)
+    play his tricks - jogar seus truques / fazer suas artimanhas
+    pointed up    -   apontou (para cima)
 
 
 **Q**
@@ -124,7 +133,7 @@
     showed          -   mostrou
     side            -   lado
     silly           -   bobo    | bobinho
-    sly             -   astuto  |   malicioso
+    sly             -   astuto / malicioso
     "so that"       -   para que    |   de modo que
     some            -   um pouco
     sometimes       -   às vezes
@@ -140,7 +149,7 @@
     "that is why"       -   "é por isso que"
     then                -   então
     there               -   lá
-
+    there also lived    -   existia também
     "there was once"    -   Existia uma vez
                             Havia uma vez
                             Era uma vez
@@ -199,7 +208,7 @@ by the side         -   ao lado
 Came up with        -   bolar   | inventar
 
 
-Come across     -   dar de cara
+
 
 
 Get too far away    -   Chegasse muito longe
@@ -232,7 +241,7 @@ I'm doing           -   eu estou fazendo
 I will give him     -   Eu vou dar a ele
 
 
-In those day    -   Naquelas dias
+
 
 
 Keep the money in the safe  -   Mantenha o dinheiro no cofre
@@ -265,8 +274,8 @@ were able to make   -   eram capazes de fazer
 What are you doing      -   O quê / Por quê você está...?
 
 
-Where did you ...   -   Onde você ...
-                    -   De onde você ...
+Where did you ...   -   Onde você ... ?
+                    -   De onde você ... ?
 
 
 
